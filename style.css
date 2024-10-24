@@ -35,5 +35,5 @@ ul{
     border: dotted;text-align: center;border-right: 0cap;
 }
 footer{
-    border:dotted;margin-top: 200px;
+    border:dotted;position: relative;top:200px
 }
